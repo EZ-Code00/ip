@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=NEWBIE+VPN+AUTOSCRIPT+!;Explore+the+world+of+features!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=ZERO+AUTOSCRIPT+!;Explore+the+world+of+features!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### INSTALL SCRIPT TAMBAHKAN NAMA SCRIPT DAN DOMAIN KMU UNTUK MENJALAKAN INSTALL
 ### CONTOH ./INSTALL NEWBIE_STORE DOMAINKEREN.COM
-<pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/Diah082/vip/main/Install.sh && chmod +x Install.sh && screen -S install ./Install.sh 
+<pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/EZ-Code00/EZCODE/main/Install.sh && chmod +x Install.sh && screen -S install ./Install.sh 
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/diah082/vip/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/EZ-Code00/EZCODE/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05 - 24.10
