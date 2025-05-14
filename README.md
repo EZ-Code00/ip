@@ -4,8 +4,9 @@
 ### CHANGE AUTO ROOT FOR DEBIAN & UBUNTU THANKS FOR MAINTEBOT
 <pre><code>sudo bash && apt install wget -y && rm -f gasss-root.sh && apt install wget whois -y && wget https://raw.githubusercontent.com/maintebot/change-root/main/gasss-root.sh && chmod +x gasss-root.sh && ./gasss-root.sh && rm gasss-root.sh</code></pre>
 
-### INSTALL SCRIPT 
-<pre><code>apt update -y && apt upgrade -y && apt install -y jq wget curl screen git && wget -q https://raw.githubusercontent.com/Diah082/vip/main/Install.sh && chmod +x Install.sh && screen -S install ./Install.sh
+### INSTALL SCRIPT TAMBAHKAN NAMA SCRIPT DAN DOMAIN KMU UNTUK MENJALAKAN INSTALL
+### CONTOH ./INSTALL NEWBIE_STORE DOMAINKEREN.COM
+<pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/Diah082/vip/main/Install.sh && chmod +x Install.sh && screen -S install ./Install.sh 
 </code></pre>
 
 ### PERINTAH UPDATE 
